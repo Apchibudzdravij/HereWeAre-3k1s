@@ -11,3 +11,7 @@
 ---
 
 Наслаждайтесь :*
+
+---
+
+> Вернуться к [выбору языка](https://github.com/Apchibudzdravij/HereWeAre-3k1s/blob/main/docs/index.md)
