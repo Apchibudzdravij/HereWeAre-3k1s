@@ -8,3 +8,7 @@
     - [Описание](https://github.com/Apchibudzdravij/HereWeAre-3k1s/blob/main/T(S)S/l3/case1.md) 1-го тест-кейса
     - [Описание](https://github.com/Apchibudzdravij/HereWeAre-3k1s/blob/main/T(S)S/l3/case2.md) 2-го тест-кейса
 4. **Четвёртая** лабораторная работа на этапе идеи
+
+---
+
+> Вернуться к [ru главной странице](https://github.com/Apchibudzdravij/HereWeAre-3k1s/blob/main/docs/ru/index.md)
