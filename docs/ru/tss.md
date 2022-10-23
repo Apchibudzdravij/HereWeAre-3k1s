@@ -7,7 +7,9 @@
 3. **Третья** лабортаторная работа находится по пути [/T(S)S/l3](https://github.com/Apchibudzdravij/HereWeAre-3k1s/tree/main/T(S)S/l3)
     - [Описание](https://github.com/Apchibudzdravij/HereWeAre-3k1s/blob/main/T(S)S/l3/case1.md) 1-го тест-кейса
     - [Описание](https://github.com/Apchibudzdravij/HereWeAre-3k1s/blob/main/T(S)S/l3/case2.md) 2-го тест-кейса
-4. **Четвёртая** лабораторная работа на этапе идеи
+4. **Четвёртая** лабораторная работа находится по пути [/T(S)S/l4](https://github.com/Apchibudzdravij/HereWeAre-3k1s/blob/main/T(S)S/l4)
+    - [Тест-кейсы](https://github.com/Apchibudzdravij/HereWeAre-3k1s/blob/main/T(S)S/l4/cases.md)
+5. **Пятая** лабораторная работа появится тут до конца этого дня!
 
 ---
 
