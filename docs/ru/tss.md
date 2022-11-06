@@ -9,7 +9,7 @@
     - [Описание](https://github.com/Apchibudzdravij/HereWeAre-3k1s/blob/main/T(S)S/l3/case2.md) 2-го тест-кейса
 4. **Четвёртая** лабораторная работа находится по пути [/T(S)S/l4](https://github.com/Apchibudzdravij/HereWeAre-3k1s/blob/main/T(S)S/l4)
     - [Тест-кейсы](https://github.com/Apchibudzdravij/HereWeAre-3k1s/blob/main/T(S)S/l4/cases.md)
-5. **Пятая** лабораторная работа появится тут до конца этого дня!
+5. **Пятая** лабораторная работа полностью в Jenkins, но [тут](https://github.com/Apchibudzdravij/HereWeAre-3k1s/blob/main/T(S)S/l5/lab5.png) можно найти подтверждение выполнения!
 
 ---
 
